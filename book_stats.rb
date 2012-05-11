@@ -36,7 +36,6 @@ def parse_screenplay
   File.delete("#{$book_path}.stats.txt") if File.exists?("#{$book_path}.stats.txt")
   open("#{$book_path}.stats.txt", 'a') do |f|
     f.puts sp.title
-    f.puts sp.author
     f.puts "---------------------------------------------"
     f.puts "total descriptions: #{sp.total_description_words}"
     f.puts "total dialog: #{sp.total_dialog}"
@@ -44,6 +43,7 @@ def parse_screenplay
     
     #f.puts "total words: #{b.total_word_count}"
     #f.puts "average words per chapter: #{b.average_chapter_words}"
+    
     sp.scenes.each do |s|
       f.puts "--------------------------------------------"
       f.puts s.title

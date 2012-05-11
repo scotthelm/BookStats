@@ -1,0 +1,820 @@
+RAIDERS OF THE LOST ARK
+---------------------------------------------
+total descriptions: 21940
+total dialog: 5701
+---------------------------------------------
+--------------------------------------------
+1      EXT.  PERU - HIGH JUNGLE - DAY                          1
+words: 39
+characters: 1
+PERU - 1
+--------------------------------------------
+1936
+words: 167
+characters: 1
+BARRANCA - 8
+--------------------------------------------
+2000 years old.
+words: 126
+characters: 2
+INDY - 21
+BARRANCA - 6
+--------------------------------------------
+2      THE APPROACH TO THE TEMPLE                              2
+words: 560
+characters: 3
+SATIPO - 28
+INDY - 44
+BARRANCA - 19
+--------------------------------------------
+3      INT. TEMPLE - INCLINED PASSAGE - DAY                    3
+words: 45
+characters: 0
+--------------------------------------------
+4      HALL OF SHADOWS                                         4
+words: 157
+characters: 0
+--------------------------------------------
+5      CHAMBER OF LIGHT                                        5
+words: 145
+characters: 2
+SATIPO - 12
+INDY - 14
+--------------------------------------------
+6      STAIRWAY                                                6
+words: 84
+characters: 1
+INDY - 13
+--------------------------------------------
+7      FOYER OF THE SANTUARY                                   7
+words: 222
+characters: 2
+SATIPO - 18
+INDY - 5
+--------------------------------------------
+8      THE SANTUARY                                            8
+words: 488
+characters: 2
+SATIPO - 13
+INDY - 4
+--------------------------------------------
+9      THE RETREAT - INTERCUTTING INDY AND SATIPO              9
+words: 386
+characters: 2
+SATIPO - 20
+INDY - 2
+--------------------------------------------
+10     THE INCLINED PASSAGE                                    10
+words: 99
+characters: 0
+--------------------------------------------
+11     EXT.  FRONT OF THE TEMPLE - DAY                         11
+words: 224
+characters: 2
+BELLOQ - 34
+INDY - 14
+--------------------------------------------
+12     EXT. THE JUNGLE - INDY'S RUN - VARIOUS SHOTS - DAY      12
+words: 33
+characters: 0
+--------------------------------------------
+13     EXT. THE URUBAMBA RIVER - DUSK                          13
+words: 96
+characters: 2
+INDY - 5
+GO! - 1
+--------------------------------------------
+14     OMIT                                             OMIT   14
+words: 0
+characters: 0
+--------------------------------------------
+15     OMIT                                             OMIT   15
+words: 0
+characters: 0
+--------------------------------------------
+16     INT. JOCK'S PLANE - DUSK                                16
+words: 53
+characters: 2
+JOCK - 26
+INDY - 7
+--------------------------------------------
+17     EXT. JOCK'S PLANE - TWILIGHT                            17
+words: 7
+characters: 0
+--------------------------------------------
+18     INT. INDY'S OFFICE, SMALL EASTERN COLLEGE - DAY         18
+words: 265
+characters: 3
+BRODY - 47
+INDY - 62
+TEACHING ASSISTANT - 27
+--------------------------------------------
+19     INT.  INDY'S LECTURE HALL/CLASSROOM - DAY               19
+words: 328
+characters: 4
+MUSGROVE - 107
+INDY - 245
+EATON - 64
+BRODY - 33
+--------------------------------------------
+20     EXT.  FRONT DOOR, INDY'S HOUSE - NIGHT                  20
+words: 36
+characters: 2
+BRODY - 9
+INDY - 12
+--------------------------------------------
+21     INT. FOYER, INDY'S HOUSE                                21
+words: 51
+characters: 1
+INDY - 6
+--------------------------------------------
+22     INT. STUDY, INDY'S HOUSE                                22
+words: 77
+characters: 3
+BRODY - 31
+INDY - 63
+WIPE TO: - 2
+--------------------------------------------
+23     EXT.  IN THE AIR - DAY/NIGHT                            23
+words: 9
+characters: 1
+WIPE TO: - 2
+--------------------------------------------
+24     INT. KEHOE'S CAR (SHANGHAI AIRPORT) - DAY               24
+words: 49
+characters: 2
+KEHOE - 28
+INDY - 4
+--------------------------------------------
+25     OMIT                                             OMIT   25
+words: 0
+characters: 0
+--------------------------------------------
+26     OMIT                                             OMIT   26
+words: 0
+characters: 0
+--------------------------------------------
+27     OMIT                                             OMIT   27
+words: 0
+characters: 0
+--------------------------------------------
+28     OMIT                                             OMIT   28
+words: 0
+characters: 0
+--------------------------------------------
+29     EXT.  HOK'S STREET - DAY                                29
+words: 58
+characters: 0
+--------------------------------------------
+30     EXT.  HOK'S STREET - IN FRONT OF PALACE - DAY           30
+words: 36
+characters: 0
+--------------------------------------------
+31     EXT.  ALLEY BEHIND HOK'S MUSEUM - DAY                   31
+words: 39
+characters: 0
+--------------------------------------------
+32     INT.  HOK'S PALACE - ENTRY HALL                         32
+words: 92
+characters: 0
+--------------------------------------------
+33     INT. HOK'S MUSEUM                                       33
+words: 65
+characters: 0
+--------------------------------------------
+34     INT.  HOK'S PALACE - TEA ROOM                           34
+words: 44
+characters: 0
+--------------------------------------------
+35     INT.  HOK'S MUSEUM                                      35
+words: 64
+characters: 0
+--------------------------------------------
+36     INT.  HOK'S PALACE - TEA ROOM                           36
+words: 22
+characters: 0
+--------------------------------------------
+37     INT.  HOK'S MUSEUM                                      37
+words: 202
+characters: 0
+--------------------------------------------
+38     EXT.  HOK'S PALACE - SECOND FLOOR WALKWAY - DAY         38
+words: 43
+characters: 0
+--------------------------------------------
+39     EXT.  STREET IN FRONT OF THE PALACE - DAY               39
+words: 6
+characters: 0
+--------------------------------------------
+40     EXT.  HOK'S PALACE - SECOND FLOOR WALKWAY - DAY         40
+words: 17
+characters: 0
+--------------------------------------------
+41     INT.  HOK'S MUSEUM                                      41
+words: 117
+characters: 0
+--------------------------------------------
+42     EXT.  HOK'S PALACE - SECOND FLOOR WALKWAY - DAY         42
+words: 31
+characters: 0
+--------------------------------------------
+43     INT.  HOK'S MUSEUM                                      43
+words: 39
+characters: 0
+--------------------------------------------
+44     EXT.  HOK'S PALACE - SECOND FLOOR WALKWAY - DAY         44
+words: 66
+characters: 0
+--------------------------------------------
+45     INT.  HOK'S MUSEUM                                      45
+words: 199
+characters: 0
+--------------------------------------------
+46     EXT.  ROOF - DAY                                        46
+words: 53
+characters: 0
+--------------------------------------------
+47     EXT.  ALLEY BEHIND MUSEUM - DAY                         47
+words: 79
+characters: 0
+--------------------------------------------
+48     INT.  KEHOE'S CAR - DAY                                 48
+words: 18
+characters: 2
+KEHOE - 8
+INDY - 12
+--------------------------------------------
+49     OMIT                                             OMIT   49
+words: 0
+characters: 1
+WIPE TO: - 2
+--------------------------------------------
+50     EXT.  DC-3 IN THE AIR - DUSK                            50
+words: 7
+characters: 0
+--------------------------------------------
+51     INT.  DC-3 - NIGHT                                      51
+words: 35
+characters: 1
+WIPE TO: - 2
+--------------------------------------------
+52.    INT.  "THE RAVEN" SALOON - PATAN, NEPAL - NIGHT         52
+words: 798
+characters: 4
+SHERPA - 4
+CLIMBER - 7
+MARION - 363
+INDY - 163
+--------------------------------------------
+53     EXT.  STREETS OUTSIDE "THE RAVEN" - NIGHT               53
+words: 57
+characters: 1
+DISSOLVE TO: - 2
+--------------------------------------------
+54     INT.  "THE RAVEN" - NIGHT                               54
+words: 1306
+characters: 4
+BELZIG - 96
+MARION - 72
+INDY - 2
+SECOND NAZI - 5
+--------------------------------------------
+55     EXT.  "THE RAVEN" - SNOW BANK - NIGHT                   55
+words: 25
+characters: 0
+--------------------------------------------
+56     INT.  "THE RAVEN" - NIGHT                               56
+words: 206
+characters: 2
+MARION - 32
+INDY - 22
+--------------------------------------------
+57     EXT.  CAIRO - VARIOUS SHOTS - DAY                       57
+words: 36
+characters: 0
+--------------------------------------------
+58     OMIT                                             OMIT   58
+words: 0
+characters: 0
+--------------------------------------------
+59     INT.  DINING ROOM - SALLAH'S HOUSE (OLD CAIRO)          59
+words: 173
+characters: 3
+FAYAH - 25
+MARION - 19
+SALLAH - 15
+--------------------------------------------
+60     OMIT                                             OMIT   60
+words: 0
+characters: 0
+--------------------------------------------
+61     EXT.  COURTYARD - SALLAH'S HOUSE - NIGHT                61
+words: 103
+characters: 2
+INDY - 75
+SALLAH - 72
+--------------------------------------------
+62     EXT.  HEAVILY TRAFFICKED CAIRO STREET - DAY            62
+words: 63
+characters: 2
+INDY - 18
+MARION - 25
+--------------------------------------------
+63     EXT.  ANOTHER CAIRO STREET - DAY                        63
+words: 104
+characters: 0
+--------------------------------------------
+64     EXT.  ANOTHER BUSY CAIRO STREET - DAY                   64
+words: 67
+characters: 0
+--------------------------------------------
+65     EXT.  A SMALL BAZAAR - DAY                              65
+words: 156
+characters: 1
+INDY - 11
+--------------------------------------------
+66     EXT.  BETWEEN THE BUILDINGS - DAY                       66
+words: 142
+characters: 0
+--------------------------------------------
+67     EXT.  THE SMALL BAZAAR - DAY                            67
+words: 23
+characters: 0
+--------------------------------------------
+68     EXT.  BETWEEN THE BUILDINGS - DAY                       68
+words: 17
+characters: 0
+--------------------------------------------
+69     EXT.  THE SMALL BAZAAR - DAY                            69
+words: 20
+characters: 0
+--------------------------------------------
+70     EXT.  SIDE STREET - DAY                                 70
+words: 58
+characters: 1
+MARION - 2
+--------------------------------------------
+71     EXT.  THE SMALL BAZAAR - DAY                            71
+words: 59
+characters: 0
+--------------------------------------------
+72     EXT.  THE FOOT CHASE - INTERCUTTING INDY AND THE        72
+words: 94
+characters: 1
+MOVING BASKET - DAY - 4
+--------------------------------------------
+73     EXT.  DESERTED ALLEY - DAY                              73
+words: 89
+characters: 0
+--------------------------------------------
+74     EXT.  DESERTED SQUARE - DAY                             74
+words: 88
+characters: 0
+--------------------------------------------
+75     EXT.  BACK OF THE TRUCK - DAY                           75
+words: 24
+characters: 0
+--------------------------------------------
+76     EXT.  DESERTED SQUARE - DAY                             76
+words: 90
+characters: 1
+INDY - 2
+--------------------------------------------
+77     INT.  ARAB BAR - NIGHT                                  77
+words: 298
+characters: 5
+ARAB BARTENDER - 16
+INDY - 73
+BELLOQ - 216
+LITTLE SON - 10
+LITTLE DAUGHTER - 7
+--------------------------------------------
+78     INT.  SALLAH'S TRUCK - IN FRONT OF ARAB BAR - NIGHT     78
+words: 27
+characters: 3
+SALLAH - 46
+INDY - 7
+***************************** PAGE 51 MISSING ***************************** - 4
+--------------------------------------------
+81     (CONTINUED)                                             81
+words: 534
+characters: 3
+INDY - 52
+SALLAH - 63
+AMIR - 36
+--------------------------------------------
+82     EXT.  DESERT ROAD - MORNING                             82
+words: 133
+characters: 0
+--------------------------------------------
+83     EXT.  RISE ABOVE THE TANIS DIGS - MORNING               83
+words: 152
+characters: 2
+INDY - 29
+SALLAH - 10
+--------------------------------------------
+84     EXT.  THE TANIS DIGS - MORNING                          84
+words: 49
+characters: 0
+--------------------------------------------
+85     EXT.  AMONG THE TENTS - MORNING                         85
+words: 119
+characters: 0
+--------------------------------------------
+86     INT.  MAP ROOM                                          86
+words: 170
+characters: 0
+--------------------------------------------
+87     EXT.  ABOVE THE MAP ROOM - DAY                          87
+words: 128
+characters: 2
+JEEP GERMAN OS - 8
+JEEP GERMAN - 16
+--------------------------------------------
+88     INT.  THE MAP ROOM                                      88
+words: 58
+characters: 0
+--------------------------------------------
+89     EXT.  IN THE CAMP - DAY                                 89
+words: 70
+characters: 2
+HUNGRY GERMAN OS - 8
+HUNGRY GERMAN - 4
+--------------------------------------------
+90     INT.  THE MAP ROOM                                      90
+words: 237
+characters: 0
+--------------------------------------------
+91     EXT.  IN THE CAMP - DAY                                 91
+words: 22
+characters: 1
+HUNGRY GERMAN - 6
+--------------------------------------------
+92     INT.  MAP ROOM                                          92
+words: 151
+characters: 1
+INDY - 10
+--------------------------------------------
+93     EXT. ABOVE THE MAP ROOM - DAY                           93
+words: 74
+characters: 2
+HUNGRY GERMAN OS - 9
+HUNGRY GERMAN - 19
+--------------------------------------------
+94     EXT.  BETWEEN TWO TENTS - DAY                           94
+words: 35
+characters: 0
+--------------------------------------------
+95     INT.  THE TENT                                          95
+words: 102
+characters: 2
+INDY - 84
+MARION - 46
+--------------------------------------------
+96     EXT.  SAND DUNE OUTSIDE DIGS - DAY                      96
+words: 37
+characters: 0
+--------------------------------------------
+97     EXT.  DIFFERENT DUNE - DAY                              97
+words: 65
+characters: 1
+INDY - 2
+--------------------------------------------
+98     EXT.  INDY'S DIG - DAY                                  98
+words: 69
+characters: 1
+DISSOLVE TO: - 2
+--------------------------------------------
+99     INT.  COMMAND TENT - TANIS DIGS - NIGHT                 99
+words: 156
+characters: 3
+BELLOQ - 69
+SHLIEMANN - 64
+GOBLER - 7
+--------------------------------------------
+100    EXT.  INDY'S DIG - NIGHT                                100
+words: 377
+characters: 2
+INDY - 36
+SALLAH - 4
+--------------------------------------------
+101    INT.  THE WELL OF THE SOULS                             101
+words: 218
+characters: 0
+--------------------------------------------
+102    OMIT                                             OMIT   102
+words: 0
+characters: 0
+--------------------------------------------
+103    INT.  MARION'S TENT                                     103
+words: 60
+characters: 3
+BELLOQ - 24
+MARION - 17
+BELZIG - 5
+--------------------------------------------
+104    EXT.  INDY'S DIG - JUST BEFORE DAWN                     104
+words: 41
+characters: 0
+--------------------------------------------
+105.   INT.  THE WELL OF THE SOULS                             105
+words: 109
+characters: 0
+--------------------------------------------
+2.5 feet wide and 2.5 feet high.  It's height, however, is
+words: 316
+characters: 2
+INDY - 25
+BELLOQ - 30
+--------------------------------------------
+106    EXT.  INDY'S DIG - DAWN                                 106
+words: 56
+characters: 1
+BELLOQ - 19
+--------------------------------------------
+107    INT.  WELLS OF THE SOULS                                107
+words: 217
+characters: 4
+SHLIEMANN - 53
+MARION - 5
+BELLOQ - 14
+INDY - 15
+--------------------------------------------
+360o turn, his eyes peering into the gloom, examining every
+words: 582
+characters: 3
+MARION - 21
+INDY - 38
+MARION OS - 6
+--------------------------------------------
+108    INT.  THE CATACOMBS                                     108
+words: 113
+characters: 2
+MARION - 14
+INDY - 17
+--------------------------------------------
+109    EXT.  THE TANIS DIGS - NEAR AIRSTRIP - DAY              109
+words: 641
+characters: 2
+GOBLER - 13
+INDY - 17
+--------------------------------------------
+110    EXT.  THE COMMAND TENT - DAY                            110
+words: 124
+characters: 1
+SHLIEMANN - 5
+--------------------------------------------
+111    EXT.  THE RISE ABOVE AIRSTRIP - DAY                     111
+words: 211
+characters: 5
+SHLIEMANN - 24
+BELLOQ - 11
+SALLAH - 25
+MARION - 3
+INDY - 4
+--------------------------------------------
+112    EXT. AMONG THE TENTS - DAY                              112
+words: 251
+characters: 2
+INDY - 39
+MARION - 12
+--------------------------------------------
+113    EXT. AT THE EDGE OF THE DIGS - DAY                      113
+words: 24
+characters: 0
+--------------------------------------------
+114    EXT.  THE DESERT (VARIOUS SHOTS) - DAY                  114
+words: 40
+characters: 0
+--------------------------------------------
+115    EXT.  DESERT ROAD - DAY                                 115
+words: 178
+characters: 0
+--------------------------------------------
+116    EXT.  MOUNTAIN ROAD - DAY                               116
+words: 1051
+characters: 1
+SHLIEMANN - 18
+--------------------------------------------
+117    EXT.  OUTSKIRTS OF CAIRO (VARIOUS SHOTS) - DAY          117
+words: 54
+characters: 0
+--------------------------------------------
+118    EXT.  OMAR'S SQUARE - DAY                               118
+words: 119
+characters: 0
+--------------------------------------------
+119    EXT.  CAIRO DOCKS - NIGHT                               119
+words: 71
+characters: 1
+DISSOLVE TO: - 2
+--------------------------------------------
+120    EXT.  OPEN SEA - THE MEDITERRANEAN - NIGHT              120
+words: 13
+characters: 0
+--------------------------------------------
+121    INT.  INDY'S CABIN - NIGHT                              121
+words: 155
+characters: 2
+MARION - 64
+INDY - 44
+--------------------------------------------
+122    INT.  IN THE HOLD                                       122
+words: 33
+characters: 0
+--------------------------------------------
+123    INT.  INDY'S CABIN - DAY                                123
+words: 30
+characters: 2
+MARION - 5
+INDY - 11
+--------------------------------------------
+124    EXT.  LOWER DECK - DAY                                  124
+words: 38
+characters: 1
+MESSENGER PIRATE - 8
+--------------------------------------------
+125    EXT.  THE BRIDGE - DAY                                  125
+words: 65
+characters: 2
+INDY - 5
+KATANGA - 25
+--------------------------------------------
+126    EXT.  UPPER DECK - DAY                                  126
+words: 20
+characters: 0
+--------------------------------------------
+127    EXT.  LOWER DECK - DAY                                  127
+words: 87
+characters: 0
+--------------------------------------------
+128    EXT./INT.  THE BANTU WINDS (VARIOUS SHOTS) - DAY        128
+words: 75
+characters: 0
+--------------------------------------------
+129    EXT.  THE BRIDGE - DAY                                  129
+words: 113
+characters: 5
+SHLIEMANN - 39
+BELLOQ - 34
+SERGEANT - 6
+KATANGA - 57
+DISSOLVE TO: - 2
+--------------------------------------------
+130    EXT.  "THE WURRFLER" - CONNING TOWER - DAY              130
+words: 447
+characters: 2
+THE WURRFLER'S CAPTAIN - 23
+SHLIEMANN - 17
+--------------------------------------------
+131    EXT.  THE PERISCOPE - AFTERNOON                         131
+words: 38
+characters: 1
+DISSOLVE TO: - 2
+--------------------------------------------
+132    EXT.  THE PERISCOPE - DUSK                              132
+words: 35
+characters: 1
+DISSOLVE TO: - 2
+--------------------------------------------
+133    EXT.  THE OCEAN - NIGHT                                 133
+words: 17
+characters: 0
+--------------------------------------------
+134    EXT.  THE PERISCOPE - NIGHT                             134
+words: 20
+characters: 2
+FADE OUT. - 2
+FADE IN: - 2
+--------------------------------------------
+135    EXT.  THE PERISCOPE - NIGHT                             135
+words: 191
+characters: 1
+INDY - 2
+--------------------------------------------
+136    INT.  THE UNDERWATER TUNNEL - NIGHT                     136
+words: 217
+characters: 0
+--------------------------------------------
+137    INT.  THE SUB BASE - DOCKING BAY                        137
+words: 280
+characters: 2
+TALL CAPTAIN - 17
+BELLOQ - 9
+--------------------------------------------
+138    INT.  TRAIN TUNNEL                                      138
+words: 127
+characters: 2
+SHLIEMANN - 20
+BELLOQ - 41
+--------------------------------------------
+139    INT.  COMMAND CENTER                                    139
+words: 94
+characters: 0
+--------------------------------------------
+140    INT.  TRAIN TUNNEL                                      140
+words: 33
+characters: 0
+--------------------------------------------
+141    INT.  THE TABERNACLE                                    141
+words: 94
+characters: 0
+--------------------------------------------
+142    INT.  COMMAND CENTER - END OF TUNNEL                    142
+words: 82
+characters: 0
+--------------------------------------------
+143    INT.  THE TABERNACLE                                    143
+words: 368
+characters: 3
+INDY - 100
+BELLOQ - 38
+SHLIEMANN - 31
+--------------------------------------------
+144    INT.  COMMAND CENTER                                    144
+words: 37
+characters: 0
+--------------------------------------------
+145    INT.  THE TABERNACLE                                    145
+words: 293
+characters: 0
+--------------------------------------------
+146    INT.  COMMAND CENTER                                    146
+words: 190
+characters: 0
+--------------------------------------------
+147    INT.  THE TABERNACLE                                    147
+words: 423
+characters: 2
+INDY - 46
+MARION - 18
+--------------------------------------------
+148    INT.  COMMAND CENTER                                    148
+words: 461
+characters: 3
+SHLIEMANN - 4
+INDY - 5
+OFFICER - 10
+--------------------------------------------
+149    INTERCUTTING Indy and Marion with Shliemann and the Nazis,
+words: 141
+characters: 0
+--------------------------------------------
+150    INT.  COMMAND CENTER                                    150
+words: 83
+characters: 0
+--------------------------------------------
+151    INT.  TRAIN TUNNEL - LONG STRAIGHTAWAY                  151
+words: 79
+characters: 0
+--------------------------------------------
+152    INT.  COMMAND CENTER - CLOSE ON FUEL DRUM               152
+words: 32
+characters: 0
+--------------------------------------------
+153    INT.  TRAIN TUNNEL - LONG STRAIGHTAWAY                  153
+words: 74
+characters: 0
+--------------------------------------------
+154    INT.  TRAIN TUNNEL                                      154
+words: 164
+characters: 1
+MARION - 4
+--------------------------------------------
+155    EXT.  THE ISLAND - END OF TRACKS, DOCK                  155
+words: 262
+characters: 0
+--------------------------------------------
+156    INT.  COMMAND CENTER                                    156
+words: 74
+characters: 1
+MUNITIONS. - 1
+--------------------------------------------
+157    EXT.  THE ISLAND - VARIOUS SHOTS - DAY                  157
+words: 118
+characters: 0
+--------------------------------------------
+158    INT.  THE PENTAGON - DAY                                158
+words: 170
+characters: 5
+MUSGROVE - 14
+EATON - 54
+MARION - 2
+BRODY - 7
+INDY - 16
+--------------------------------------------
+159    EXT.  PENTAGON STEPS - DAY                              159
+words: 75
+characters: 2
+MARION - 31
+INDY - 12
+--------------------------------------------
+160    INT.  GOVERNMENT WAREHOUSE                              160
+words: 177
+characters: 6
+TOP SECRET - 2
+ARMY INTEL. #9906753 - 3
+DO NOT OPEN! - 3
+THE END CREDITS ROLL AS WE SEE-- - 7
+FADE OUT. - 2
+THE END. - 2
