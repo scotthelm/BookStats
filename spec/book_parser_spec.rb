@@ -1,6 +1,7 @@
 require './book_parser.rb'
 require './book.rb'
 require './chapter.rb'
+require './has_words.rb'
 require 'rspec'
 
 describe Book do
