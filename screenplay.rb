@@ -1,6 +1,10 @@
 class Screenplay
-  attr_accessor :title, :author, :scenes, :characters
+  attr_accessor :title, :author, :scenes, :characters, :time_in_seconds
   
+  def initialize
+    @time_in_seconds = 0
+  end
+
   def process_line line
     # determine if this is a scene or not
     line.strip!
@@ -37,5 +41,15 @@ class Screenplay
       end
     end
     dialog
+  end
+
+  def time (denomination)
+    @scenes.each do |s|
+      @time_in_seconds += s.time_in_seconds
+    end
+
+    return @time_in_seconds/60 if denomination == :minutes
+    return @time_in_seconds if denomination == :time_in_seconds
+
   end
 end

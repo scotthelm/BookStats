@@ -39,6 +39,7 @@ def parse_screenplay
     f.puts "---------------------------------------------"
     f.puts "total descriptions: #{sp.total_description_words}"
     f.puts "total dialog: #{sp.total_dialog}"
+    f.puts "estimated total time in minutes: #{sp.time :minutes}"
     f.puts "---------------------------------------------"
     
     #f.puts "total words: #{b.total_word_count}"
@@ -48,8 +49,8 @@ def parse_screenplay
       f.puts "--------------------------------------------"
       f.puts s.title
       f.puts "words: #{s.word_count}"
-      #f.puts "distinct words: #{s.words.keys.size}"
-      f.puts "characters: #{s.characters.size}"
+      f.puts "distinct words: #{s.words.keys.size}"
+      f.puts "estimated time in seconds: #{s.time_in_seconds}"
       s.characters.each do |c|
         f.puts "#{c.name} - #{c.words.size}"
       end

@@ -1,12 +1,14 @@
 require './has_words.rb'
 class Scene
   include HasWords
-  attr_accessor :title, :number, :characters, :words
+  attr_accessor :title, :number, :characters, :words, :line_count, :line_factor
 
   def initialize(title)
     @title = title
     @characters = []
     @words = {}
+    @line_count = 0
+    @line_factor = 1.5
   end
 
   def description_words
@@ -25,6 +27,8 @@ class Scene
       
     elsif line.empty?
       @current_character = nil
+    else
+      @line_count += 1
     end
     
     words = line.split
@@ -46,5 +50,9 @@ class Scene
       end
     end
     return index
+  end
+
+  def time_in_seconds
+    (@line_count * @line_factor).round
   end
 end
